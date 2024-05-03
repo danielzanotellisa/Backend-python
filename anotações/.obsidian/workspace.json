@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/Aula 2.md",
+                "file": "BACKEND/Aula 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "383197bc9333eb0a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/Aula 2.md",
+                "file": "BACKEND/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BACKEND/Aula 2.md",
+                "file": "BACKEND/Aula 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BACKEND/Aula 2.md"
+                "file": "BACKEND/Aula 3.md"
               }
             }
           }
@@ -148,9 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82deeea228c5dcd4",
+  "active": "866bed3931473baa",
   "lastOpenFiles": [
-    "BACKEND",
-    "BACKEND/Aula 2.md"
+    "BACKEND/Aula 2.md",
+    "BACKEND/Aula 3.md",
+    "BACKEND"
   ]
 }
